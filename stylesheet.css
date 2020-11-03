@@ -1,0 +1,94 @@
+.front-photo{
+	width: 250px;
+	text-align: center;
+	float: right;
+}
+#title{
+    background-color:#ff4c68;
+	color:#fff;
+}
+.navbar-brand{
+	color: #fff;
+	text-align: left;
+
+}
+.container{
+	border-bottom-width: 50px;
+    padding-bottom: 50px;
+    border-top-width: 50px;
+    padding-top: 50px;
+    text-align: center;
+}
+
+h1{
+	font-family: 'Amatic SC', cursive;
+}
+h2{
+	font-family: 'Merriweather', serif;
+}
+h3{
+	font-family: 'Montserrat', sans-serif;
+}
+h4{
+	font-family: 'Montserrat', sans-serif;
+}
+.data{
+	text-align: center;
+}
+#sub-body{
+	color:#ff4c68;
+
+}
+.palace{
+	width:100px;
+	padding-bottom: 50px;
+}
+#show{
+	 background-color:#ff4c68;
+	 color:#fff;
+	 text-align: center;
+}
+.fotter{
+	color:#ff4c68;
+	text-align: center;
+	padding: 30px 0;
+}
+.bottom-container{
+	background-color: #ff4c68;
+	text-align: center;
+	padding: 20px 0;
+}
+.footer-link{
+	color:#fff;
+	font-family: 'Merriweather', serif;
+
+
+}
+.copy-right{
+	color:#fff;
+	font-size:14px;
+	padding: 20px 0;
+}
+.navigation{
+	color:#ff4c68;
+}
+/*paragraph*/
+p{
+	font-family: 'Merriweather', serif;
+}
+.navigation{
+	font-family: 'Merriweather', serif;
+}
+/*image*/
+.image-one{
+	padding: 20px 0;
+}
+.image-two{
+	padding: 20px 0;
+}
+.image-three{
+	padding: 20px 0;
+}
+.dam{
+	padding: 20px 0;
+}
